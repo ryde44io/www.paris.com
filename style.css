@@ -1,0 +1,11 @@
+body{
+    background-image: url(9m.jpg);
+    background-repeat: no-repeat;
+    background-repeat: 500%;
+}
+h1{
+    color: rgb(0, 38, 255);
+}
+a{
+    color: rgb(30, 255, 0);
+}
